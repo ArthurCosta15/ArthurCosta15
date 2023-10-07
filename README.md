@@ -1,5 +1,6 @@
 # Opa 🤙, eu sou Arthur Costa
-<br><br><p>Sou estudante de Análise e Desenvolvimento
+<br>
+<p>Sou estudante de Análise e Desenvolvimento
 de Sistemas na Universidade Nova Roma(ADS), sou <strong>apaixonado por descobrir coisas novas</strong> e usá-las para criar soluções de alta qualidade. Hoje sou uma pessoa focada em desenvolvimento web.</p>&nbsp;
 
 
@@ -12,7 +13,7 @@ de Sistemas na Universidade Nova Roma(ADS), sou <strong>apaixonado por descobrir
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![image](https://github.com/ArthurCosta15/ArthurCosta15/assets/146488008/5a9c3ed2-875f-478d-9780-55e4a1f156f7)
+
 
 
 #### Secondary Stack:
