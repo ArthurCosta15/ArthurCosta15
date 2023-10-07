@@ -1,5 +1,5 @@
 # Opa 🤙, eu sou Arthur Costa
-<br><br> <p Sou estudante de Análise e Desenvolvimento
+<br><br><p>Sou estudante de Análise e Desenvolvimento
 de Sistemas na Universidade Nova Roma(ADS), sou <strong>apaixonado por descobrir coisas novas</strong> e usá-las para criar soluções de alta qualidade. Hoje sou uma pessoa focada em desenvolvimento web.</p>&nbsp;
 
 
