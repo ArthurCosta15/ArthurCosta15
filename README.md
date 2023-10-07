@@ -1,8 +1,6 @@
 # Opa 🤙, eu sou Arthur Costa
 <br>
-<p>Sou estudante de Análise e Desenvolvimento
-de Sistemas na Universidade Nova Roma(ADS), sou <strong>apaixonado por descobrir coisas novas</strong> e usá-las para criar soluções de alta qualidade. Hoje sou uma pessoa focada em desenvolvimento web.</p>&nbsp;
-
+<p>Sou estudante de Análise e Desenvolvimento de Sistemas(ADS) na Universidade Nova Roma, <strong>SOU APAIXONADO POR DESCOBRIR COISAS NOVAS</strong> e usá-las para criar soluções de alta qualidade. Hoje sou uma pessoa focada em desenvolvimento web.</p>&nbsp;
 
 ## My Skills
 
@@ -13,7 +11,7 @@ de Sistemas na Universidade Nova Roma(ADS), sou <strong>apaixonado por descobrir
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-
+![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js)&nbsp;
 
 
 #### Secondary Stack:
@@ -23,8 +21,8 @@ de Sistemas na Universidade Nova Roma(ADS), sou <strong>apaixonado por descobrir
 
 #### Studying in this moment:
 
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
+![ReactJS](https://img.shields.io/badge/React-05122A?style=flat&logo=React)&nbsp;
 
 #### Databases:
 
